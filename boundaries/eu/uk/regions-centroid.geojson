@@ -1,0 +1,257 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"objectid": 1,
+				"nuts118cd": "UKC",
+				"nuts118nm": "North East (England)",
+				"bng_e": 417313,
+				"bng_n": 600358,
+				"long": -1.72889996,
+				"lat": 55.2970314,
+				"st_areashape": 8609938892.516282,
+				"st_lengthshape": 657578.2253037834
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.8458372603430844,
+					55.015921924946187
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"objectid": 2,
+				"nuts118cd": "UKD",
+				"nuts118nm": "North West (England)",
+				"bng_e": 350015,
+				"bng_n": 506280,
+				"long": -2.7723701,
+				"lat": 54.44945145,
+				"st_areashape": 14182609113.170264,
+				"st_lengthshape": 1063052.7065474129
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.735397303115819,
+					54.05292718502284
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"objectid": 3,
+				"nuts118cd": "UKE",
+				"nuts118nm": "Yorkshire and The Humber",
+				"bng_e": 446903,
+				"bng_n": 448736,
+				"long": -1.28711998,
+				"lat": 53.93264008,
+				"st_areashape": 15432322860.076394,
+				"st_lengthshape": 863264.1431059156
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-1.2293665662512213,
+					53.965512520373469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"objectid": 4,
+				"nuts118cd": "UKF",
+				"nuts118nm": "East Midlands (England)",
+				"bng_e": 477660,
+				"bng_n": 322635,
+				"long": -0.84966999,
+				"lat": 52.79571915,
+				"st_areashape": 15658181358.055443,
+				"st_lengthshape": 889656.2655425278
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.8051206816216375,
+					52.92714925607813
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"objectid": 5,
+				"nuts118cd": "UKG",
+				"nuts118nm": "West Midlands (England)",
+				"bng_e": 386294,
+				"bng_n": 295477,
+				"long": -2.2035799,
+				"lat": 52.55696869,
+				"st_areashape": 13002149548.972458,
+				"st_lengthshape": 774627.13466366
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-2.2707218736994014,
+					52.48035122871237
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"objectid": 6,
+				"nuts118cd": "UKH",
+				"nuts118nm": "East of England",
+				"bng_e": 571074,
+				"bng_n": 263229,
+				"long": 0.50414598,
+				"lat": 52.24066925,
+				"st_areashape": 19155125590.87776,
+				"st_lengthshape": 1083693.3371809596
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					0.49157840444201209,
+					52.23554006313661
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"objectid": 7,
+				"nuts118cd": "UKI",
+				"nuts118nm": "London",
+				"bng_e": 517516,
+				"bng_n": 178392,
+				"long": -0.30864,
+				"lat": 51.49227142,
+				"st_areashape": 1585475934.6321338,
+				"st_lengthshape": 270855.0900530518
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.11052941115860593,
+					51.500884023190049
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"objectid": 8,
+				"nuts118cd": "UKJ",
+				"nuts118nm": "South East (England)",
+				"bng_e": 470062,
+				"bng_n": 172924,
+				"long": -0.99311,
+				"lat": 51.4509697,
+				"st_areashape": 19115903193.639238,
+				"st_lengthshape": 1454554.871707667
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-0.47539240188397588,
+					51.340430073614488
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"objectid": 9,
+				"nuts118cd": "UKK",
+				"nuts118nm": "South West (England)",
+				"bng_e": 285015,
+				"bng_n": 102567,
+				"long": -3.63343,
+				"lat": 50.81119156,
+				"st_areashape": 23979440241.36823,
+				"st_lengthshape": 1647103.672969887
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.5037855981797949,
+					50.92645335628671
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"objectid": 10,
+				"nuts118cd": "UKL",
+				"nuts118nm": "Wales",
+				"bng_e": 263406,
+				"bng_n": 242881,
+				"long": -3.99415994,
+				"lat": 52.06740952,
+				"st_areashape": 20820253175.166917,
+				"st_lengthshape": 1552749.7137542759
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-3.9550151347264146,
+					52.3615417085964
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"objectid": 11,
+				"nuts118cd": "UKM",
+				"nuts118nm": "Scotland",
+				"bng_e": 277746,
+				"bng_n": 700060,
+				"long": -3.97091007,
+				"lat": 56.1774292,
+				"st_areashape": 78634565219.47362,
+				"st_lengthshape": 9423683.278675676
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-4.236682657100839,
+					57.59561321234969
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"objectid": 12,
+				"nuts118cd": "UKN",
+				"nuts118nm": "Northern Ireland",
+				"bng_e": 86601,
+				"bng_n": 535325,
+				"long": -6.85481024,
+				"lat": 54.61494064,
+				"st_areashape": 14335630127.831646,
+				"st_lengthshape": 832956.2816809011
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-6.704174011027326,
+					54.59895348185925
+				]
+			}
+		}
+	]
+}
